@@ -4,7 +4,7 @@
 n = int(input('digite um numero:'))
 
 #print('analisando o numero:{}\n seu antecessor e {}\n e seu sucessor e:{}'.format(n,n-1,n+1))
-
+#outra maneira
 n1 = n -1
 n2 = n +1
 print(f'Analisando o numero {n}!')
