@@ -5,6 +5,7 @@ Aprendizado prático com os exercícios do professor Gustavo Guanabara
 
 
 📚 Sobre o Curso
+
 Este repositório contém os exercícios realizados durante o curso Python 3 do professor Gustavo Guanabara, 
 oferecido gratuitamente pelo portal Curso em Vídeo. O curso é dividido em três módulos principais:
 - Mundo 1 – Fundamentos da linguagem
