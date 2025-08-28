@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/df0fbefd-d655-4a26-93c4-d00d35e8754e" />
+<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/df0fbefd-d655-4a26-93c4-d00d35e8754e" />
 
 🐍 Curso de Python – Exercícios | Curso em Vídeo
 Aprendizado prático com os exercícios do professor Gustavo Guanabara
